@@ -1,0 +1,27 @@
+
+
+#head{
+	background-color: grey;
+	text-align: center;
+}
+
+#login{
+	margin-top: 20px;
+	margin-left: 430px;
+	border-radius: 3px;
+	width: 400px;
+	height: 400px;
+	background-color: grey;
+}
+
+#loginfrm{
+
+	margin-top: 80px;
+	margin-left:80px;
+
+}
+#sl{
+	margin-top: 10px;
+	width: 80px;
+
+}
